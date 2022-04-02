@@ -1,0 +1,26 @@
+* {
+  
+}
+.contenido {
+  background-color: lightblue;
+  top: 200px;
+  right:100px;
+  font-weight: bold;
+}
+
+body {
+  background-color: black;
+  display: flex;
+  justify-content: center;
+}
+img{
+  
+  color: red;
+  
+}
+h2{
+  text-align: center;
+  color: green;
+  
+}
+
